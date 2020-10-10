@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abb32e5144c7e5a23d5b31e7d472d0a9",
+    "revision": "a532180674aa0d7ae878f7c14bc3f888",
     "url": "/index.html"
   },
   {
-    "revision": "c415038744a11e54c515",
-    "url": "/static/js/2.19c3c481.chunk.js"
+    "revision": "8d808363ae3168a11613",
+    "url": "/static/js/2.975284a5.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.19c3c481.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.975284a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2c2504c1350c688b0ac",
-    "url": "/static/js/main.bff9a105.chunk.js"
+    "revision": "35218f03d8ddbfe82e0d",
+    "url": "/static/js/main.be8547eb.chunk.js"
   },
   {
     "revision": "caf1510df3fda980cdad",
     "url": "/static/js/runtime-main.4614937d.js"
-  },
-  {
-    "revision": "b439ad636c24124124b831e44ea90f6a",
-    "url": "/static/media/chevron-up.b439ad63.svg"
   },
   {
     "revision": "75834e21efb96c1212274f8986a3f5ab",
